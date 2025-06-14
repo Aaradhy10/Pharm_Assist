@@ -1,10 +1,10 @@
 # **PharmAssist**  
 
-#### Participant name: Harshita Mahbubani
+#### Participant name: Aaradhy Jain
 #### Project name : PharmAssist
 
 ## **Overview**
-This project is being submitted as part of the Ideathon round of the **Google Girl Hackathon 2025**. PharmAssist is a prototype designed to showcase how AI can revolutionize pharmacy workflows by automating prescription processing, inventory management, and order fulfillment.
+PharmAssist is a prototype designed to showcase how AI can revolutionize pharmacy workflows by automating prescription processing, inventory management, and order fulfillment.
 
 ## **Demo Pages**
 #### 1. Landing page
